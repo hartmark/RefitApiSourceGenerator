@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=CA262019_002D11C8_002D4F44_002D8394_002D1A5887B5E832_002Fd_003ASnapshots_002Ff_003ARouteSourceGeneratorTest_002EVerifyRouteSourceGenerator_0023RefitExtension_002ERandomApi_002Eg_002Ereceived_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.Private.CoreLib.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\System.ComponentModel.Annotations.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\miha39\.nuget\packages\microsoft.codeanalysis.common\4.8.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\miha39\.nuget\packages\system.reflection.metadata\7.0.0\lib\netstandard2.0\System.Reflection.Metadata.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\miha39\.nuget\packages\refit\7.0.0\lib\netstandard2.0\Refit.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d0a4384_002Ded2f_002D45bb_002Dba5e_002D6fc6fe72b1e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\CCShare\SourceGenerator\Tests" Presentation="&amp;lt;Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
